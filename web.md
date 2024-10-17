@@ -1,6 +1,6 @@
 **# Project Overview**
 
-I have a basic Next JS project setup with shadcn/ui and I would like to create an autonomous agent that 
+I have a basic Next JS project setup with shadcn/ui...
 
 **# Core Functionality**
 
